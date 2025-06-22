@@ -38,3 +38,15 @@ try:
 
 except ValueError:
     print("Please enter a valid number for password length.")
+
+# User output
+Enter password length: 12
+
+Include the following in your password:
+Uppercase letters? (y/n): y
+Lowercase letters? (y/n): y
+Numbers? (y/n): y
+Special characters? (y/n): n
+
+Generated Password: Xz4fGd9rLqBt
+
